@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 baseurl: ""
 url: "https://nagahisa.github.io"
 theme: jekyll-theme-leap-day
+=======
+theme: jekyll-theme-minimal
+title: IoT ALGYAN - All Gadget Your Alliance and Network -
+description: IoTあるじゃん
+>>>>>>> ef1f8c2f3b3b8da79b028d7ea7869592697b23b1
